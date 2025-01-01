@@ -42,5 +42,5 @@ The generated plots are saved in the repository folder:
   - Worst-User Rate: Compare fairness across methods.
   - Sum Rate: Compare the overall channel capacity across methods.
 
-##### Customization
+### Customization
 You can modify the parameters such as the number of users, UAV antennas, and total power in the main.py script.

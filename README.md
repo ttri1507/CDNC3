@@ -20,8 +20,7 @@ To run the code, ensure you have the following dependencies installed:
   - `matplotlib==3.8.0`
 
 #### Install dependencies using:
-```bash
-pip install numpy==1.26.4 scipy==1.13.1 cvxpy==1.6.0 matplotlib==3.8.0
+`pip install numpy==1.26.4 scipy==1.13.1 cvxpy==1.6.0 matplotlib==3.8.0`
 
 
 #### Usage

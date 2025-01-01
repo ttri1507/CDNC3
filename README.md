@@ -44,3 +44,5 @@ The generated plots are saved in the repository folder:
 
 ### Customization
 You can modify the parameters such as the number of users, UAV antennas, and total power in the main.py script.
+
+p/s: Thanks to the Google Cloud Platform for supporting me with free hardware devices to solve this problem.😊

@@ -1,4 +1,4 @@
-# **CDNC3**  
+# **Chuyên đề nghiên cứu 3 - HK241**  
 
 This repository implements a simulation for power allocation optimization using the Bacterial Foraging Optimization Algorithm (BFOA) and other comparative methods such as MCUC, MMWR, EPA, and RPA.
 
